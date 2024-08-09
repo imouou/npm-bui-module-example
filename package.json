@@ -1,8 +1,15 @@
 {
   "name": "bui-module-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BUI NPM 模块的示例",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imouou/npm-bui-module-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imouou/npm-bui-module-example/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
